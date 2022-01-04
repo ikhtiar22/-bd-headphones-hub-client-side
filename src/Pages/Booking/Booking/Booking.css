@@ -1,0 +1,36 @@
+.shipping-form input {
+	display: block;
+	margin-top: 30px;
+	padding: 5px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	width: 300px;
+}
+
+.error {
+	color: red;
+}
+
+.form-class {
+	margin-left: 25px;
+}
+
+.submit-btn {
+	background-color: orangered;
+	color: white;
+}
+
+.info-bg {
+	background-image: linear-gradient(to right, #7300df, #4322ff, #a013ff);
+}
+
+.price-bg {
+	background-image: linear-gradient(to right, #ff9966, #ff5e62, #a013ff);
+}
+
+.purchase-bg {
+	background-image: url(../../../images/slider-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
